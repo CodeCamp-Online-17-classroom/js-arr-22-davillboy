@@ -13,3 +13,5 @@ let name = 'John';
 let work = makeWorker();
 work(); // *
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
